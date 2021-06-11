@@ -612,7 +612,7 @@
 						position: absolute;
 						top: 0;
 						height: 100%;
-						width: 100%;
+						width: auto;
 					}
 
 				.box.style1 .inner
@@ -635,7 +635,7 @@
 
 						.box.style1.right .image img
 						{
-							right: 0;
+							left: 0;
 						}
 					
 					.box.style1.right .inner
